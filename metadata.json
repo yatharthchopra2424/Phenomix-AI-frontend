@@ -1,0 +1,5 @@
+{
+  "name": "PGx Vision",
+  "description": "A high-performance, interactive 3D pharmacogenomics dashboard featuring procedural DNA visualization, smooth scrolling, and GSAP animations.",
+  "requestFramePermissions": []
+}
